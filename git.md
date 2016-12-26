@@ -52,9 +52,10 @@ En la siguiente guía se explicará y se sugerirá la forma en la que deberíamo
 
 - Nos cambiamos a nuestra rama después de realizar el pull en la rama prinicpal.
     ````
-        git rebase master
+    git rebase master
     ````
-Esto puede generar algunos conflictos, se deberán solucionar dichos conflictos antes de continuar trabajando en nuestra rama
+    
+- NOTA: Esto puede generar algunos conflictos, se deberán solucionar dichos conflictos antes de continuar trabajando en nuestra rama
 
 
 
