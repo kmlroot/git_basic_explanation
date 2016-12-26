@@ -39,7 +39,7 @@ En la siguiente guía se explicará y se sugerirá la forma en la que deberíamo
     git push origin my-feature
     ````
     
-4. Esto nos generará una nueva rama en nuestro repositorio remoto y ahí podrémos crear un nuevo pull request con dan solo algunos clicks, esto es una muy buena practica ya que tenemos la aprobación de todo el equipo de desarrollo, estos se encargarán de revisar y probar todo el pull request
+4. Esto nos generará una nueva rama en nuestro repositorio remoto y ahí podrémos crear un nuevo pull request con tan solo algunos clicks, esto es una muy buena practica ya que tenemos la aprobación de todo el equipo de desarrollo, estos se encargarán de revisar y probar todo el pull request
 
 5. Para aprobar un pull request se deberá comentar en este con unos de estos dos símbolos 👍   🚢 cuando todos los miembros del equipo hayan aprobado el pull request se deberá hacer el respectivo merge, de lo contrario el solicitante del pull request deberá proceder a realizar los cambios sugeridos y repetir todo el proceso anteriomente mencionado
 
