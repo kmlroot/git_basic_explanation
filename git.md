@@ -43,6 +43,11 @@ En la siguiente guía se explicará y se sugerirá la forma en la que deberíamo
 
 5. Para aprobar un pull request se deberá comentar en este con unos de estos dos símbolos 👍   🚢 cuando todos los miembros del equipo hayan aprobado el pull request se deberá hacer el respectivo merge, de lo contrario el solicitante del pull request deberá proceder a realizar los cambios sugeridos y repetir todo el proceso anteriomente mencionado
 
+- Para bajar ramas que están en el repositorio remoto basta con hacer
+  ```
+  git fetch
+  ```
+    
 6. Si se hizo merge **TODOS** los miembros del equipo deberán pasarse a la rama prinicpal y actualizarla, para actualizarla basta con entrar a dicha rama y hacer
     ````
     git pull
